@@ -1,0 +1,43 @@
+@theme {
+  --color-primary: #d90429;
+  --color-primary-dark: #b90022;
+  --color-primary-light: #fde4e4;
+  --color-background: #ffffff;
+  --color-background-subtle: #f8f9fa;
+  --color-border: #e9ecef;
+  --color-text-primary: #212529;
+  --color-text-secondary: #6c757d;
+  --color-darkb-accent: #403c3b;
+  --color-success: #198754;
+  --color-warning: #ffc107;
+  --color-error: #d90429;
+  --color-info: #0dcaf0;
+  --color-whatsapp: #25d366;
+  --color-a01: #ee1c25;
+
+  --text-h1: clamp(32px, calc(28px + 1vw), 40px);
+  --text-h2: clamp(18px, calc(14px + 1.67vw), 32px);
+  --text-h3: clamp(16px, calc(14px + 0.7vw), 24px);
+  --text-h4: clamp(14px, calc(12px + 0.6vw), 20px);
+  --text-button: clamp(14px, calc(12px + 0.4vw), 16px);
+  --text-link: clamp(14px, calc(12px + 0.4vw), 16px);
+  --text-h1-display: clamp(24px, calc(20px + 1.5vw), 56px);
+  --text-body: clamp(13px, calc(11px + 0.4vw), 16px);
+  --text-bodybold: 14px;
+  --text-small: clamp(12px, calc(10px + 0.4vw), 14px);
+  --text-logo-name: 10px;
+  --text-logo-des: 8px;
+
+  --text-h1--font-weight: 700;
+  --text-h2--font-weight: 700;
+  --text-h3--font-weight: 700;
+  --text-h4--font-weight: 700;
+  --text-body--font-weight: 500;
+  --text-bodybold--font-weight: 700;
+  --text-small--font-weight: 500;
+  --text-button--font-weight: 700;
+  --text-link--font-weight: 500;
+  --text-h1-display--font-weight: 1000;
+  --text-logo-name--font-weight: 700;
+  --text-logo-des--font-weight: 700;
+}
